@@ -35,6 +35,7 @@ public class linearSearchGui extends javax.swing.JFrame {
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    // كل ال ى فى الميسود دة بتنشئ لوحده
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
